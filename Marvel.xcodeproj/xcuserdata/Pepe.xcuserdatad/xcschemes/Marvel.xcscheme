@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "0720"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B11F2BCC1CDA5B45002D5545"
+               BlueprintIdentifier = "B11B6D3F1CE2B70100261DB9"
                BuildableName = "Marvel.app"
                BlueprintName = "Marvel"
                ReferencedContainer = "container:Marvel.xcodeproj">
@@ -28,11 +28,31 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B11B6D531CE2B70100261DB9"
+               BuildableName = "MarvelTests.xctest"
+               BlueprintName = "MarvelTests"
+               ReferencedContainer = "container:Marvel.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B11B6D5E1CE2B70100261DB9"
+               BuildableName = "MarvelUITests.xctest"
+               BlueprintName = "MarvelUITests"
+               ReferencedContainer = "container:Marvel.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B11F2BCC1CDA5B45002D5545"
+            BlueprintIdentifier = "B11B6D3F1CE2B70100261DB9"
             BuildableName = "Marvel.app"
             BlueprintName = "Marvel"
             ReferencedContainer = "container:Marvel.xcodeproj">
@@ -55,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B11F2BCC1CDA5B45002D5545"
+            BlueprintIdentifier = "B11B6D3F1CE2B70100261DB9"
             BuildableName = "Marvel.app"
             BlueprintName = "Marvel"
             ReferencedContainer = "container:Marvel.xcodeproj">
@@ -74,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B11F2BCC1CDA5B45002D5545"
+            BlueprintIdentifier = "B11B6D3F1CE2B70100261DB9"
             BuildableName = "Marvel.app"
             BlueprintName = "Marvel"
             ReferencedContainer = "container:Marvel.xcodeproj">

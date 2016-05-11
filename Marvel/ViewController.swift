@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Marvel
 //
-//  Created by José Becerra on 5/4/16.
-//  Copyright © 2016 José Becerra. All rights reserved.
+//  Created by Pepe Becerra on 5/10/16.
+//  Copyright © 2016 Pepe Becerra. All rights reserved.
 //
 
 import UIKit
